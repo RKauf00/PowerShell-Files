@@ -3,7 +3,7 @@
 
 ## Purpose
 
-  - Provide a centralized storage repo for generalized non-project specific powershell files
+  - Provide a centralized storage repo for generalized non-project specific PowerShell files
 
 ## Intended Use
 
@@ -16,11 +16,13 @@
 
 ## Audience
 
-  -  Public
+  - Azure DevOps: Internal
+  - GitHub: Public
 
 ## Repository Endpoint
 
-  - [GitHub](https://github.com/RKauf00/PowerShell-Files.git)
+  - [Azure DevOps](https://dev.azure.com/Azure-Stack/PowerShell%20Scripts)
+  - [GitHub](https://github.com/RKauf00/PowerShell-Files.git) (Sync'd from Azure DevOps)
 
 ## License
 
