@@ -1,0 +1,1 @@
+# [Service Manager](https://docs.microsoft.com/en-us/system-center/scsm/?view=sc-sm-2019)

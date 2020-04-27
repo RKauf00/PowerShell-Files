@@ -1,0 +1,1 @@
+# [Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/)

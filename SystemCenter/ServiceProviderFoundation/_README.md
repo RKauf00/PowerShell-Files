@@ -1,0 +1,1 @@
+# [Service Provider Foundation](https://docs.microsoft.com/en-us/system-center/spf/?view=sc-spf-2019)
