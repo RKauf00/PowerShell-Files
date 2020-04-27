@@ -1,0 +1,1 @@
+# [Operations Manager](https://docs.microsoft.com/en-us/system-center/scom/?view=sc-om-2019)
